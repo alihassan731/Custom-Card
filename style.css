@@ -1,0 +1,14 @@
+.checkbox_size {
+    transform: scale(1.5);
+    margin-right: 5px;
+}
+
+.pre-div {
+    margin: 0px !important;
+    padding: 0px !important;
+    padding-top: 10px !important;
+}
+
+.pre-div[class*=language-].line-numbers>code {
+    left: -150px !important;
+}
